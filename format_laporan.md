@@ -1,4 +1,7 @@
 # UAS Pengembangan Web – Debug REST API CI4
+Nama: Muhammad Amrul Sihabbuddin 
+Nim:231080200064
+Kelas:4 B1 informatika 
 
 ## Tugas:
 - Perbaiki minimal 5 bug dari aplikasi
